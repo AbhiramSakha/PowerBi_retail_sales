@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="./Preview.png" width="800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Power+BI+Dashboard+Project;Retail+Sales+Analytics;Data+Driven+Insights;Interactive+Visualizations" />
 </p>
 
 ---
@@ -27,7 +27,7 @@
 ## 🎥 Dashboard Preview
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/dashboard.gif" width="800"/>
+  <img src="./Preview.png" width="800"/>
 </p>
 
 ---
