@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Power+BI+Dashboard+Project;Retail+Sales+Analytics;Data+Driven+Insights;Interactive+Visualizations" />
+  <img src="./preview.png" width="800"/>
 </p>
 
 ---
